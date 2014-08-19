@@ -1,9 +1,23 @@
 GettingandCleaningDataProject
 =============================
 
+##Readme and Instructions
+
 Smartphone Tidy Data Set
 
 ## File: run_analysis.R
+
+## O.S.
+
+    1. Mac OS X Version 10.9.4
+    2. Processor: 1.7 GHz Intel Core i5
+    3. Memory: 4 GB
+
+## R Studio: This project was done entirely using R Studio
+
+    1. R Version 3.1.0 (2014-04-10) -- "Spring Dance"
+    2. Copyright (C) 2014 The R Foundation for Statistical Computing
+    3. Platform: x86_64-apple-darwin13.1.0 (64-bit)
 
 ## Project Purpose
 
